@@ -1,0 +1,13 @@
+com\teststore\ProductPage\Checkout_addressPage.class
+com\teststore\Utilities\Generic.class
+com\teststore\ExtractInformation\ReadfromJson.class
+com\teststore\RegistrationPage\CreateNewCustomer.class
+com\teststore\Utilities\WebDriverUtilites.class
+com\teststore\LoginPage\Applicationlogin.class
+com\teststore\LoginPage\Applicationlogin2.class
+com\teststore\helper\LoggerHelper.class
+com\teststore\ProductPage\ReviewPaymentPage.class
+com\teststore\Utilities\PageUtilities.class
+com\teststore\ExtractInformation\ExtractuserName.class
+com\teststore\Utilities\DataUtilities.class
+com\teststore\ProductPage\Add_Product_to_Cart.class

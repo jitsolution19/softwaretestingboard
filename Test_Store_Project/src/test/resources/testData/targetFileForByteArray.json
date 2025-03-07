@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Monsieur",
+                "first": "Finn",
+                "last": "Clement"
+            },
+            "location": {
+                "street": {
+                    "number": 3953,
+                    "name": "Place des 44 Enfants D'Izieu"
+                },
+                "city": "Minusio",
+                "state": "St. Gallen",
+                "country": "Switzerland",
+                "postcode": 4086,
+                "coordinates": {
+                    "latitude": "-58.4038",
+                    "longitude": "-73.8324"
+                },
+                "timezone": {
+                    "offset": "-12:00",
+                    "description": "Eniwetok, Kwajalein"
+                }
+            },
+            "email": "finn.clement@example.com",
+            "login": {
+                "uuid": "420648bb-a5c0-43a6-bc6e-942a542c9917",
+                "username": "greentiger622",
+                "password": "shei",
+                "salt": "QuVaoOAn",
+                "md5": "66669eeef9854acce8d24fa55c7b1c71",
+                "sha1": "be1cd93a6c31c85f7033f6069a562619ece63be2",
+                "sha256": "323ae66ea43b845467efcdbd90e44027a6e45301e5962987069159942b770d03"
+            },
+            "dob": {
+                "date": "1960-01-04T20:49:39.505Z",
+                "age": 62
+            },
+            "registered": {
+                "date": "2005-04-13T16:48:48.838Z",
+                "age": 17
+            },
+            "phone": "076 185 61 45",
+            "cell": "077 579 97 16",
+            "id": {
+                "name": "AVS",
+                "value": "756.5461.0644.88"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/63.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+            },
+            "nat": "CH"
+        }
+    ],
+    "info": {
+        "seed": "b0e1bdf6fb8a0870",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
