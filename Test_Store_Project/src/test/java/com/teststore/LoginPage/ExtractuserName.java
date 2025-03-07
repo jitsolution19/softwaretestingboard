@@ -2,8 +2,6 @@ package com.teststore.LoginPage;
 import java.io.File;
 import java.io.IOException;
 
-import org.testng.annotations.Test;
-
 import com.google.common.io.Files;
 
 import io.restassured.RestAssured;
